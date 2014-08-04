@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map_canvas {
+    height: 80%;
+}
+
+.shuffleDivs {
+    width: 33.33%;         
+    float: left; 
+    background-color: aqua;
+}
